@@ -6,8 +6,22 @@
     <description>Recent content on My Static Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 11:29:11 +0000</lastBuildDate>
     <atom:link href="http://boris.com.au/cmstaticdemo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Page from CMS</title>
+      <link>http://boris.com.au/cmstaticdemo/page/page-from-cms/</link>
+      <pubDate>Tue, 06 Jun 2017 11:29:11 +0000</pubDate>
+      
+      <guid>http://boris.com.au/cmstaticdemo/page/page-from-cms/</guid>
+      <description>
+
+&lt;h2 id=&#34;hmmmm&#34;&gt;Hmmmm&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://boris.com.au/cmstaticdemo/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Post title</title>
