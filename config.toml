@@ -1,4 +1,4 @@
-baseURL = "http://boris.com.au/cmstaticdemo"
+baseURL = "http://boris.com.au/cmstaticdemo/"
 languageCode = "en-us"
 title = "My Static Demo"
 theme = "hugo-theme-bleak"
